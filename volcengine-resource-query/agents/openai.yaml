@@ -1,0 +1,3 @@
+display_name: 查询火山平台资源
+short_description: 查询火山引擎资源包余额并进行预算守门
+default_prompt: 查询火山平台资源包余额，并判断当前 Seedance 任务预算是否足够。
